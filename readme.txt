@@ -2,7 +2,6 @@
 Contributors: rachmadhidayat
 Author: Rachmad Hidayat
 Author URI: madxartwork.eu.org
-Plugin URI: wordpress.org/plugins/custom-content-shortcode/
 Tags: loop, query, content, shortcode, post type, field, attachment, comment, sidebar, taxonomy
 Requires at least: 4.6
 Tested up to: 5.4
